@@ -27,7 +27,7 @@
 [![Evgeniy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonniy99)](https://github.com/jonniy99/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonniy99&layout=compact)](https://github.com/jonniy99/github-readme-stats)
-<a href="https://app.daily.dev/Jonniy"><img src="https://api.daily.dev/devcards/d93d51e0a7e9419ea70d26c2228854af.png?r=wt6" width="400" alt="Evgeniy's Dev Card"/></a>
+
 
 ### Connect with me:
 
